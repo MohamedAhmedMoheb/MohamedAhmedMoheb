@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-Second-year Computer Engineering student @ BUE.  
+Third-year Computer Engineering student @ BUE.  
 Passionate about everything that speaks the language of **0s and 1s**.  
 
 Currently building hands-on projects using **Linux, Git, and Golang**, while actively exploring **DevOps, Cloud Computing, and Infrastructure Automation**.
